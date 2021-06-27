@@ -9,7 +9,7 @@ This repositery includes index.php file which contains the robot controller once
 
   to run this code :
 
-installing XAMPP and create a database called 'control-panel', and a table called 'panels'(see the photo below)
+installing XAMPP and create a database called 'control-panel', and a table called 'panel'(see the photo below)
 
 creating a user for the database with the following information : User name, Host name,and password
   
